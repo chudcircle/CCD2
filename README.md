@@ -12,7 +12,7 @@ The Game operates entirely offline and has no network capabilities.
 
 Any local data, such as game saves or settings, is stored only on your device and remains under your control. You can delete it at any time by uninstalling the Game or clearing app data through your device settings.
 Open Source Nature
-The Game is open source, and its source code is publicly available at [insert repository URL, e.g., GitHub link]. You may review the code to verify that no data collection occurs.
+The Game is open source, and its source code is publicly available at [(https://github.com/chudcircle/CCD2)]. You may review the code to verify that no data collection occurs.
 Children's Privacy
 The Game does not knowingly collect personal information from children or anyone else. It is suitable for all ages but does not target children under 13.
 Third Parties
